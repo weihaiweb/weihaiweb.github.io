@@ -311,7 +311,7 @@ a.hvr-shutter-out-horizontal:hover:before,a.hvr-shutter-out-horizontal:focus:bef
 	margin: 10px 0px 9px 10px;
 	width: 25px;
 	height: 25px;
-	background: url(../images/img-sprite.png) no-repeat 0px 0px;
+	background: url(/img-sprite.png) no-repeat 0px 0px;
 }
 
 .mail {
